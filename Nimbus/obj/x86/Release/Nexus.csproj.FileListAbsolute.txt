@@ -1,0 +1,32 @@
+D:\CodingProjects\NexusCode\Nexus\Nexus\bin\Release\Nexus.exe
+D:\CodingProjects\NexusCode\Nexus\Nexus\bin\Release\Nexus.pdb
+D:\CodingProjects\NexusCode\Nexus\Nexus\bin\Release\Ionic.Zip.dll
+D:\CodingProjects\NexusCode\Nexus\Nexus\bin\Release\WebKit.Interop.dll
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.NexusControls.GamesListBox.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.NexusMain.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.Properties.Resources.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.exe
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.pdb
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.NexusControls.NexusText.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.NexusMessageBox.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.ChatWindow.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.FriendsList.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.ChatWindow.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.FriendsList.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.NexusControls.GamesListBox.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.NexusMain.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.NexusMessageBox.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.Slip.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.exe
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Release\Nexus.pdb
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\bin\Release\Nexus.exe
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\bin\Release\Nexus.pdb
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\bin\Release\Ionic.Zip.dll
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\bin\Release\WebKit.Interop.dll

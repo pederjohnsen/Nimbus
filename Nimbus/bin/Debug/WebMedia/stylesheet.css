@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body {
+	background-color:#c7dee9;
+	font-family:"Arial" Sans-Serif;
+	color:#FFFFFF;
+}
+p
+{
+	margin: 10px 0px;
+}
+#title 
+{
+	margin: 0px auto;
+	padding: 0px;
+	width: auto;
+	background-color: #80b3cc;
+	font-size:30px;
+	
+}
+#author
+{
+	font-size:18px;
+	padding: 0px;
+	margin: 0px;
+}
+
+a
+{
+	margin: 0px 20px;
+	padding: 3px 8px;
+	outline: 1px solid white;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #80b3cc;
+	font-size:25px;
+}
+a:hover 
+{
+    background-color: #c7dee9;
+}
+
+.box
+{
+  	margin: auto;
+	margin-bottom:20px;
+  	width: auto;
+  	padding: 10px 20px;
+	background-color: #80b3cc;
+}
+
+#play
+{
+	margin: 30px;
+	margin-top: 40px;
+	background-color: none;
+}
+

@@ -1,0 +1,24 @@
+D:\CodingProjects\NimbusCode\Nimbus\Nimboid\bin\Debug\Nexoid.exe.config
+D:\CodingProjects\NimbusCode\Nimbus\Nimboid\bin\Debug\Nexoid.exe
+D:\CodingProjects\NimbusCode\Nimbus\Nimboid\bin\Debug\Nexoid.pdb
+D:\CodingProjects\NimbusCode\Nimbus\Nimboid\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CodingProjects\NimbusCode\Nimbus\Nimboid\obj\x86\Debug\Nexoid.exe
+D:\CodingProjects\NimbusCode\Nimbus\Nimboid\obj\x86\Debug\Nexoid.pdb
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimboid\bin\Debug\Nexoid.exe.config
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimboid\bin\Debug\Nexoid.exe
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimboid\bin\Debug\Nexoid.pdb
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimboid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimboid\obj\x86\Debug\Nexoid.exe
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimboid\obj\x86\Debug\Nexoid.pdb
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimboid\bin\Debug\Nexoid.exe.config
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimboid\bin\Debug\Nexoid.exe
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimboid\bin\Debug\Nexoid.pdb
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimboid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimboid\obj\x86\Debug\Nexoid.exe
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimboid\obj\x86\Debug\Nexoid.pdb
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimboid\bin\Debug\Nexoid.exe.config
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimboid\bin\Debug\Nexoid.exe
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimboid\bin\Debug\Nexoid.pdb
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimboid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimboid\obj\x86\Debug\Nexoid.exe
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimboid\obj\x86\Debug\Nexoid.pdb

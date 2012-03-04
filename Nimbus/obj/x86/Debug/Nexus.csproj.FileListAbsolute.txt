@@ -1,0 +1,54 @@
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.Properties.Resources.resources
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\bin\Debug\Nexus.exe
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\bin\Debug\Nexus.pdb
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.exe
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.pdb
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.NexusMain.resources
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.NexusControls.GamesListBox.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\bin\Debug\Nexus.exe
+D:\CodingProjects\NexusCode\Nexus\Nexus\bin\Debug\Nexus.pdb
+D:\CodingProjects\NexusCode\Nexus\Nexus\bin\Debug\Ionic.Zip.dll
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.NexusControls.GamesListBox.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.NexusMain.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.Properties.Resources.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.exe
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.pdb
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.NexusControls.NexusText.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.NexusMessageBox.resources
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.NexusControls.NexusText.resources
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.NexusMessageBox.resources
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.ChatWindow.resources
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.FriendsList.resources
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\bin\Debug\WebKit.Interop.dll
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.ChatWindow.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.FriendsList.resources
+D:\CodingProjects\NexusCode\Nexus\Nexus\bin\Debug\WebKit.Interop.dll
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+D:\CodingProjects\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.Slip.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.exe
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.pdb
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\bin\Debug\Nexus.exe
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\bin\Debug\Nexus.pdb
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\bin\Debug\WebKit.Interop.dll
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.ChatWindow.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.FriendsList.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.NexusControls.GamesListBox.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.NexusMain.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.NexusMessageBox.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\Nexus.Slip.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexus\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CodingProjects\NimbusCode\Nimbus\Nexus\obj\x86\Debug\Nexus.exe
+D:\CodingProjects\NimbusCode\Nimbus\Nexus\obj\x86\Debug\Nexus.pdb

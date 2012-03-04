@@ -1,0 +1,83 @@
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\bin\Debug\Nimbus.exe
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\bin\Debug\Nimbus.pdb
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\bin\Debug\Ionic.Zip.dll
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\bin\Debug\WebKit.Interop.dll
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.ChatWindow.resources
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.FriendsList.resources
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Controls.GamesListBox.resources
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Properties.Resources.resources
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Slip.resources
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.exe
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.pdb
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Splash.resources
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.exe
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.pdb
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\bin\Debug\Nimbus.exe
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\bin\Debug\Nimbus.pdb
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\bin\Debug\WebKit.Interop.dll
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.ChatWindow.resources
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.FriendsList.resources
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Controls.GamesListBox.resources
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Properties.Resources.resources
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Slip.resources
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Splash.resources
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\bin\Debug\WebKitBrowser.dll
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\bin\Debug\WebKitCore.dll
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\bin\Debug\JSCore.dll
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.NimbusMain.resources
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.NimbusMessageBox.resources
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\bin\Debug\WebKitBrowser.dll
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\bin\Debug\WebKitCore.dll
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\bin\Debug\JSCore.dll
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.NimbusMain.resources
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.NimbusMessageBox.resources
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.LoginForm.resources
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.exe
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.pdb
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\Nimbus.exe
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\Nimbus.pdb
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\Ionic.Zip.dll
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\WebKitBrowser.dll
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\WebKitCore.dll
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\WebKit.Interop.dll
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\JSCore.dll
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.ChatWindow.resources
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.FriendsList.resources
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.LoginForm.resources
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Controls.GamesListBox.resources
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.NimbusMain.resources
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.NimbusMessageBox.resources
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Properties.Resources.resources
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Slip.resources
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Splash.resources
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.exe
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.pdb
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\Nimbus.exe
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\Nimbus.pdb
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\WebKitBrowser.dll
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\WebKitCore.dll
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\WebKit.Interop.dll
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\JSCore.dll
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.ChatWindow.resources
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.FriendsList.resources
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.LoginForm.resources
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Controls.GamesListBox.resources
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.NimbusMain.resources
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.NimbusMessageBox.resources
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Properties.Resources.resources
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Slip.resources
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\Nimbus.Splash.resources
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

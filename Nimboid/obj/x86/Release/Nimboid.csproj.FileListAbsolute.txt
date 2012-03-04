@@ -1,0 +1,8 @@
+D:\CodingProjects\NimbusCode\Nimbus\Nimboid\bin\Release\Nexoid.exe.config
+D:\CodingProjects\NimbusCode\Nimbus\Nimboid\bin\Release\Nexoid.exe
+D:\CodingProjects\NimbusCode\Nimbus\Nimboid\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CodingProjects\NimbusCode\Nimbus\Nimboid\obj\x86\Release\Nexoid.exe
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimboid\bin\Release\Nexoid.exe.config
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimboid\bin\Release\Nexoid.exe
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimboid\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimboid\obj\x86\Release\Nexoid.exe

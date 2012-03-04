@@ -1,0 +1,32 @@
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\bin\Debug\RegistryUpdater.exe
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\Nexus\bin\Debug\RegistryUpdater.pdb
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\RegistryUpdater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\RegistryUpdater\obj\x86\Debug\RegistryUpdater.exe
+C:\Documents and Settings\Steve\My Documents\NexusCode\Nexus\RegistryUpdater\obj\x86\Debug\RegistryUpdater.pdb
+D:\CodingProjects\NexusCode\Nexus\Nexus\bin\Debug\RegistryUpdater.exe
+D:\CodingProjects\NexusCode\Nexus\Nexus\bin\Debug\RegistryUpdater.pdb
+D:\CodingProjects\NexusCode\Nexus\RegistryUpdater\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CodingProjects\NexusCode\Nexus\RegistryUpdater\obj\x86\Debug\RegistryUpdater.exe
+D:\CodingProjects\NexusCode\Nexus\RegistryUpdater\obj\x86\Debug\RegistryUpdater.pdb
+D:\CodingProjects\NimbusCode\Nimbus\RegistryUpdater\obj\x86\Debug\RegistryUpdater.exe
+D:\CodingProjects\NimbusCode\Nimbus\RegistryUpdater\obj\x86\Debug\RegistryUpdater.pdb
+D:\CodingProjects\NimbusCode\Nimbus\Nexus\bin\Debug\RegistryUpdater.exe
+D:\CodingProjects\NimbusCode\Nimbus\Nexus\bin\Debug\RegistryUpdater.pdb
+D:\CodingProjects\NimbusCode\Nimbus\RegistryUpdater\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\bin\Debug\RegistryUpdater.exe
+D:\CodingProjects\NimbusCode\Nimbus\Nimbus\bin\Debug\RegistryUpdater.pdb
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\bin\Debug\RegistryUpdater.exe
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\Nimbus\bin\Debug\RegistryUpdater.pdb
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\RegistryUpdater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\RegistryUpdater\obj\x86\Debug\RegistryUpdater.exe
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\RegistryUpdater\obj\x86\Debug\RegistryUpdater.pdb
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\RegistryUpdater.exe
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\RegistryUpdater.pdb
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\RegistryUpdater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\RegistryUpdater\obj\x86\Debug\RegistryUpdater.exe
+C:\Users\Steve\Dropbox\NimbusCode\Nimbus\RegistryUpdater\obj\x86\Debug\RegistryUpdater.pdb
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\RegistryUpdater.exe
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\Nimbus\bin\Debug\RegistryUpdater.pdb
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\RegistryUpdater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\RegistryUpdater\obj\x86\Debug\RegistryUpdater.exe
+C:\Documents and Settings\Steve\My Documents\Dropbox\NimbusCode\Nimbus\RegistryUpdater\obj\x86\Debug\RegistryUpdater.pdb

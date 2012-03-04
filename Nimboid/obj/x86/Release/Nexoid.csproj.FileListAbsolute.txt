@@ -1,0 +1,10 @@
+D:\CodingProjects\NexusCode\Nexus\Nexoid\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CodingProjects\NexusCode\Nexus\Nexoid\bin\Release\Nexoid.exe.config
+D:\CodingProjects\NexusCode\Nexus\Nexoid\bin\Release\Nexoid.exe
+D:\CodingProjects\NexusCode\Nexus\Nexoid\bin\Release\MySql.Data.dll
+D:\CodingProjects\NexusCode\Nexus\Nexoid\obj\x86\Release\Nexoid.exe
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexoid\bin\Release\Nexoid.exe.config
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexoid\bin\Release\Nexoid.exe
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexoid\bin\Release\MySql.Data.dll
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexoid\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\Nexoid\obj\x86\Release\Nexoid.exe

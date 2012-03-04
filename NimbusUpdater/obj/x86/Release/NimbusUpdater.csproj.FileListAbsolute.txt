@@ -1,0 +1,35 @@
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\WindowsFormsApplication1\obj\x86\Release\NimbusUpdater.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\WindowsFormsApplication1\obj\x86\Release\NimbusUpdater.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\WindowsFormsApplication1\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\WindowsFormsApplication1\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\WindowsFormsApplication1\bin\Release\NimbusUpdater.exe.config
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\WindowsFormsApplication1\bin\Release\NimbusUpdater.exe
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\WindowsFormsApplication1\bin\Release\NimbusUpdater.pdb
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\WindowsFormsApplication1\bin\Release\Ionic.Zip.dll
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\WindowsFormsApplication1\obj\x86\Release\NimbusUpdater.exe
+C:\Documents and Settings\Administrator\My Documents\NexusCode\Nexus\WindowsFormsApplication1\obj\x86\Release\NimbusUpdater.pdb
+D:\CodingProjects\NimbusCode\Nimbus\NimbusUpdater\bin\Release\NimbusUpdater.exe.config
+D:\CodingProjects\NimbusCode\Nimbus\NimbusUpdater\bin\Release\NimbusUpdater.exe
+D:\CodingProjects\NimbusCode\Nimbus\NimbusUpdater\bin\Release\NimbusUpdater.pdb
+D:\CodingProjects\NimbusCode\Nimbus\NimbusUpdater\bin\Release\Ionic.Zip.dll
+D:\CodingProjects\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CodingProjects\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\NimbusUpdater.Form1.resources
+D:\CodingProjects\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\NimbusUpdater.Properties.Resources.resources
+D:\CodingProjects\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\CodingProjects\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\CodingProjects\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\NimbusUpdater.exe
+D:\CodingProjects\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\NimbusUpdater.pdb
+D:\CodingProjects\NimbusCode\Nimbus\nimbus\bin\release\NimbusUpdater.exe.config
+D:\CodingProjects\NimbusCode\Nimbus\nimbus\bin\release\NimbusUpdater.exe
+D:\CodingProjects\NimbusCode\Nimbus\nimbus\bin\release\NimbusUpdater.pdb
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\nimbus\bin\release\NimbusUpdater.exe.config
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\nimbus\bin\release\NimbusUpdater.exe
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\nimbus\bin\release\NimbusUpdater.pdb
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\NimbusUpdater.Form1.resources
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\NimbusUpdater.Properties.Resources.resources
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\NimbusUpdater.exe
+C:\Documents and Settings\Steve\My Documents\NimbusCode\Nimbus\NimbusUpdater\obj\x86\Release\NimbusUpdater.pdb

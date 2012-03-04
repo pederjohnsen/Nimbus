@@ -1,0 +1,81 @@
+<html>
+<head>
+<style type="text/css"><!--
+html, body {
+	background-color:#e0e8c0;
+	font-family:"Arial" Sans-Serif;
+	color:#FFFFFF;
+	padding: 0px;
+	margin: 0px;
+	font-size:12px;
+	color: #255269;
+}
+p
+{
+	margin: 10px 0px;
+}
+#title 
+{
+	margin: 0px auto;
+	padding: 0px;
+	width: auto;
+	font-size:20px;
+	font-weight: bold;
+	
+}
+#author
+{
+	font-size:16px;
+	padding: 0px;
+	margin: 0px;
+}
+
+a
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	font-size:30px;
+}
+a:hover 
+{
+    	color: #397491;
+}
+
+.box, .nobox
+{
+  	padding: 10px 20px;
+  	margin: auto;
+	margin-bottom: 6px;
+	margin-top: 0px;
+  	width: auto;
+}
+.box
+{
+	background-color: #9cb197;
+}
+.options {
+	text-align: right;
+}
+#playedfor
+{
+	font-weight: bold;
+}
+--></style>
+</head>
+<body>
+<div class="box">
+	<p id="title">$title</p>
+	<p id="author">by $author</p>
+	<p id="playedfor">Played for: $playedfor</p>
+	<p class="options"><a href="$playlink">play.</a> &nbsp; <a href="$configlink">config.</a></p>
+
+</div>
+<div class="nobox">
+	<p>$description</p>
+</div>
+
+
+<p>Generated at: $time</p>
+</body>
+</html>
